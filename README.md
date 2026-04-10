@@ -98,8 +98,9 @@ Successfully detects:
    Safety compliance
 
  📸 Output Example
+<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/3706e6ea-28e1-4a11-976b-2fd770210022" />
 
-(Add screenshots here after running your app)
+<img width="1600" height="807" alt="image" src="https://github.com/user-attachments/assets/f4824cf8-acb9-42a8-9ea2-5c56beb81faa" />
 
  🎓 Academic Use
 
